@@ -3,7 +3,7 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto fin
 
 <h1 align=center> LOGIN JBM </h1>
 <p align="center">
-    <img width="300" src="web/image/Layoult Login Iphone 11-PhotoRoom.png-PhotoRoom.png" >  
+    <img width="400" src="web/image/Layoult Login Iphone 11-PhotoRoom.png-PhotoRoom.png" >  
     </p>
 
 <h1 align=center> PDV JBM </h1>    
