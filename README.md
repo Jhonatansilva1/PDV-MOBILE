@@ -46,7 +46,7 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto web
 <h1 align=center> Consulta Cliente Geral </h1>    
 <p align="center">
     <img width="400" src="web/git img/consulta geral cliente-PhotoRoom.png-PhotoRoom.png">
-    <img width="400" src="web/git img/consulta geral cliente-PhotoRoom.png-PhotoRoom.png">
+    <img width="400" src="web/git img/consulta geral 2-PhotoRoom.png-PhotoRoom.png">
 </p>
 <h1 align=center> Alterar Cliente </h1>    
 <p align="center">
