@@ -3,7 +3,7 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto fin
 
 <h1 align=center> LOGIN JBM </h1>
 <p align="center">
-    <img width="900" src="https://github.com/brunoaxlrose/projetoFinal/blob/c45486291efa5ae964c63f3c17aaf3f7bee07d9c/web/image/Tela%20Login%201.png" >  
+    <img width="900" src="web/image/Layoult Login Iphone 11-PhotoRoom.png-PhotoRoom.png" >  
     </p>
 
 <h1 align=center> PDV JBM </h1>    
