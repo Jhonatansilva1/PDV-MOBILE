@@ -19,7 +19,7 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto fin
 
 <h1 align=center> CONSULTA CLIENTE </h1>    
 <p align="center">
-    <img width="400" src="web/git img/Consulta cliente-PhotoRoom.png-PhotoRoom.png">
+    <img width="700" src="web/git img/Consulta cliente-PhotoRoom.png-PhotoRoom.png">
     <img width="300" src="web/git img/retorno consulta-PhotoRoom.png-PhotoRoom.png"> 
 </p>
 <h1 align=center> CONSULTA CLIENTE GERAL </h1>    
