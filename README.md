@@ -3,7 +3,7 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto fin
 
 <h1 align=center> LOGIN JBM </h1>
 <p align="center">
-    <img width="600" src="web/git img/tela login-PhotoRoom.png-PhotoRoom.png" >  
+    <img width="500" src="web/git img/tela login-PhotoRoom.png-PhotoRoom.png" >  
     </p>
 
 <h1 align=center> Menu Categorias </h1>    
@@ -19,7 +19,7 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto fin
 
 <h1 align=center> Consulta Cliente </h1>    
 <p align="center">
-    <img width="600" src="web/git img/Consulta cliente-PhotoRoom.png-PhotoRoom.png">
+    <img width="500" src="web/git img/Consulta cliente-PhotoRoom.png-PhotoRoom.png">
 </p>
 
 <h1 align=center> Retorno Consulta Cliente </h1>    
