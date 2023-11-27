@@ -24,7 +24,7 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto fin
 
 <h1 align=center> Retorno Consulta Cliente </h1>    
 <p align="center">
-    <img width="500" src="web/git img/retorno consulta-PhotoRoom.png-PhotoRoom.png">   
+    <img width="300" src="web/git img/retorno consulta-PhotoRoom.png-PhotoRoom.png">   
 </p>
 <h1 align=center> Alterar Cliente </h1>    
 <p align="center">
