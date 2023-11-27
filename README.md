@@ -6,6 +6,22 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto fin
     <img width="400" src="web/git img/tela login-PhotoRoom.png-PhotoRoom.png" >  
     </p>
 
+<h1 align=center> Menu Principal </h1>    
+<p align="center">
+    <img width="300" src="web/git img/menu principal-.png">    
+</p>
+
+<h1 align=center> Abertura PDV </h1>    
+<p align="center">
+    <img width="300" src="web/git img/venda 1-PhotoRoom.png-PhotoRoom.png">  
+    <img width="300" src="web/git img/venda 1-PhotoRoom.png-PhotoRoom.png"> 
+</p>
+
+<h1 align=center> Finalização da venda </h1>    
+<p align="center">
+    <img width="300" src="web/git img/pagamento-PhotoRoom.png-PhotoRoom.png">  
+</p>
+
 <h1 align=center> Menu Categorias </h1>    
 <p align="center">
     <img width="300" src="web/git img/categorias-PhotoRoom.png-PhotoRoom.png">    
