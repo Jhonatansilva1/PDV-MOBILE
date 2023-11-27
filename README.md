@@ -66,9 +66,8 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto web
     <img width="300" src="web/git img/excluir cliente-PhotoRoom.png-PhotoRoom.png">
      <img width="300" src="web/git img/mensagem excluir-PhotoRoom.png-PhotoRoom.png">
 </p>
-<h1 align=center> CONSULTA CLIENTE GERAL </h1>    
- Busca Aproximada "Car", Retornando esses clientes da imagem abaixo.
+<h1 align=center> Calendário </h1>    
 <p align="center">
-    <img width="450" src="https://github.com/brunoaxlrose/projetoFinal/blob/c45486291efa5ae964c63f3c17aaf3f7bee07d9c/web/image/Consulta%20Geral%20Cliente%20Busca%20aproximada.png">
+    <img width="450" src="web/git img/calendario-PhotoRoom.png-PhotoRoom.png">
 </p>
     
