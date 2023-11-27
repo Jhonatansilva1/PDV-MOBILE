@@ -10,6 +10,7 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto fin
 <p align="center">
     <img width="450" src="web/git img/categorias-PhotoRoom.png-PhotoRoom.png">    
 </p>
+
 <h1 align=center> CADASTRO CLIENTE </h1>    
 <p align="center">
     <img width="450" src="web/git img/Cadastro de cliente 1-PhotoRoom.png-PhotoRoom.png"> 
