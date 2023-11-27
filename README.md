@@ -8,7 +8,7 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto fin
 
 <h1 align=center> Menu Categorias </h1>    
 <p align="center">
-    <img width="450" src="web/image/categories-PhotoRoom.png-PhotoRoom.png">    
+    <img width="450" src="[web/image/categories-PhotoRoom.png-PhotoRoom.png](https://github.com/Jhonatansilva1/teste2/blob/main/web/git%20img/categorias-PhotoRoom.png-PhotoRoom.png)">    
 </p>
 
 <h1 align=center> CONSULTA CLIENTE GERAL </h1>    
