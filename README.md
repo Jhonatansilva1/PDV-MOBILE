@@ -1,5 +1,5 @@
 # Sistema de PDV JBM; 
-Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto web Mobile.
+Desenvolvido juntamente a Bruno Oliveira e Maikon Sposito, para projeto web Mobile.
 
 <h1 align=center> LOGIN JBM </h1>
 <p align="center">
