@@ -22,6 +22,10 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto web
 <p align="center">
     <img width="400" src="web/git img/pagamento-PhotoRoom.png-PhotoRoom.png">  
 </p>
+<h1 align=center> Consulta venda </h1>    
+<p align="center">
+    <img width="400" src="web/git img/consulta geral 2-PhotoRoom.png-PhotoRoom.png">  
+</p>
 <h1 align=center> Cadastro de Mercadorias </h1>    
 <p align="center">
     <img width="400" src="web/git img/cadastro mercadoria-PhotoRoom.png-PhotoRoom.png">  
