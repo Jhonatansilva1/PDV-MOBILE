@@ -24,7 +24,7 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto fin
 
 <h1 align=center> Finalização da venda </h1>    
 <p align="center">
-    <img width="350" src="web/git img/pagamento-PhotoRoom.png-PhotoRoom.png">  
+    <img width="400" src="web/git img/pagamento-PhotoRoom.png-PhotoRoom.png">  
 </p>
 
 <h1 align=center> Cadasto Cliente </h1>    
