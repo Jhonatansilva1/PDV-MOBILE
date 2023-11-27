@@ -13,8 +13,8 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto fin
 
 <h1 align=center> CADASTRO CLIENTE </h1>    
 <p align="center">
-    <img width="400" src="web/git img/Cadastro de cliente 1-PhotoRoom.png-PhotoRoom.png"> 
-    <img width="400" src="web/git img/cadstro de cliente 2.png">    
+    <img width="300" src="web/git img/Cadastro de cliente 1-PhotoRoom.png-PhotoRoom.png"> 
+    <img width="300" src="web/git img/cadstro de cliente 2.png">    
 </p>
 
 <h1 align=center> CONSULTA CLIENTE GERAL </h1>    
