@@ -16,7 +16,7 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto web
 <h1 align=center> Abertura PDV </h1>    
 <p align="center">
     <img width="450" src="web/git img/venda 1-PhotoRoom.png-PhotoRoom.png">  
-    <img width="450" src="web/git img/venda 1-PhotoRoom.png-PhotoRoom.png"> 
+    <img width="450" src="web/git img/venda 2-PhotoRoom.png-PhotoRoom.png"> 
 </p>
 <h1 align=center> Finalização da venda </h1>    
 <p align="center">
