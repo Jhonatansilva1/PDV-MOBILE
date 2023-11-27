@@ -28,7 +28,7 @@ Desenvolvido juntamente a Jhonatan Nascimento e Maikon Sposito, para projeto web
 </p>
 <h1 align=center> Consulta Mercadorias Geral </h1>    
 <p align="center">
-    <img width="400" src="wweb/git img/consulta mercadoria-PhotoRoom.png-PhotoRoom.png">  
+    <img width="400" src="web/git img/consulta mercadoria-PhotoRoom.png-PhotoRoom.png">  
 </p>
 <h1 align=center> Cadasto Cliente </h1>    
 <p align="center">
