@@ -34,6 +34,11 @@ Desenvolvido juntamente a Bruno Oliveira e Maikon Sposito, para projeto web Mobi
 <p align="center">
     <img width="400" src="web/git img/consulta mercadoria-PhotoRoom.png-PhotoRoom.png">  
 </p>
+<h1 align=center> Alterar Produto </h1>    
+<p align="center">
+    <img width="300" src="web/git img/alterar produto 1-PhotoRoom.png-PhotoRoom.png"> 
+    <img width="300" src="web/git img/alterar produto 2-PhotoRoom.png-PhotoRoom.png">    
+</p>
 <h1 align=center> Cadasto Cliente </h1>    
 <p align="center">
     <img width="300" src="web/git img/Cadastro de cliente 1-PhotoRoom.png-PhotoRoom.png"> 
